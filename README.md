@@ -15,8 +15,6 @@
 
 <br/>
 
-[![noormosia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormosia&show_icons=true)](https://github.com/noormosia)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
