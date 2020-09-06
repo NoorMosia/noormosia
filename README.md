@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://noormosia.com/"><img alt="Website" src="https://img.shields.io/badge/Website-noormosia.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/noormosia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-noormosia-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/noor-mosia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-noormosia-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:noortshepo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noortshepo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
