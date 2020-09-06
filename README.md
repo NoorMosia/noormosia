@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2> Hey there! I'm Noor.</h2>
 
-<!--
-**NoorMosia/noormosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Fullstack developer specialising in MERN stack.
+- 💼 &nbsp; Looking for my first formal employment to learn and gain more experience.
+- 🌱 &nbsp; Learning mobile development with react native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 💻 &nbsp; Python | Java | C++ | NodeJS 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git
+
+<br/>
+
+[![noormosia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormosia&show_icons=true)](https://github.com/noormosia)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://noormosia.com/"><img alt="Website" src="https://img.shields.io/badge/Website-noormosia.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/noormosia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-noormosia-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:noortshepo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noortshepo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [noormosia](https://github.com/noormosia)
