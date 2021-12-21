@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Fullstack developer specialising in MERN stack.
+- 🌱 &nbsp; mobile app developer with react native.
 - 💼 &nbsp; 2 years Experience
-- 🌱 &nbsp; Learning mobile development with react native.
 
 <h3>🛠 Tech Stack</h3>
 
