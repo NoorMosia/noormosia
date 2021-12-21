@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Fullstack developer specialising in MERN stack.
-- 💼 &nbsp; Looking for my first formal employment to learn and gain more experience.
+- 💼 &nbsp; 2 years Experience
 - 🌱 &nbsp; Learning mobile development with react native.
 
 <h3>🛠 Tech Stack</h3>
