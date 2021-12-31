@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Fullstack developer specialising in MERN stack.
 - 🌱 &nbsp; mobile app developer with react native.
-- 💼 &nbsp; 2 years Experience
+- 💼 &nbsp; 4 years Experience
 
 <h3>🛠 Tech Stack</h3>
 
